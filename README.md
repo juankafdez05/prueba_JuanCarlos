@@ -24,4 +24,6 @@ git push
 
 ![[Imagen]]
 
-|hola|adios|
+| Izquierda | Centro | Derecha |
+|:----------|:------:|--------:|
+| Dato 1    | Dato 2 |   Dato 3|   
